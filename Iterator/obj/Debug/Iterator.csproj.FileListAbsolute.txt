@@ -1,0 +1,6 @@
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Iterator\obj\Debug\Iterator.pdb
