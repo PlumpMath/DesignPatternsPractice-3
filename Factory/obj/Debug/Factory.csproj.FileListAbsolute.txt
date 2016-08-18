@@ -1,0 +1,6 @@
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\bin\Debug\Factory.exe
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\obj\Debug\Factory.exe
+C:\Users\Ash\Desktop\pluralsight\jeremy clark\DesignPatterns\Factory\obj\Debug\Factory.pdb
